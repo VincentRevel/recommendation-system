@@ -13,5 +13,3 @@ Collaborative filtering recommends movies based on the behavior of other users. 
 ## Hybrid Recommendation System
 
 The hybrid recommendation system combines both content-based and collaborative filtering techniques to improve the quality of recommendations. It leverages the strengths of both approaches to provide more accurate and diverse recommendations. The system first uses collaborative filtering to generate initial recommendations and then uses content-based filtering to re-rank the recommendations based on the content similarity.
-
-Feel free to customize this README template to add more details about your project, such as how to run the code, install dependencies, and contribute to the project.
